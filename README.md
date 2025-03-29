@@ -1,7 +1,9 @@
 # 🐱‍👤 Pirate Kitty Badges
 
 ## ⚓️ About  ![Pirate Kitty Approved](https://img.shields.io/badge/Pirate_Kitty-Approved™-black?style=flat&logo=github)
-Official “Pirate Kitty Approved™” badge for use in projects, student portfolios, and adventurous HTML/CSS repos. Show off your style and pirate kitty pride! 🏴‍☠️ This is just a pet project that I'm doing for "morale purposes".
+Official “Pirate Kitty Approved™” badge for use in projects, student portfolios, and adventurous HTML/CSS repos. Show off your style and pirate kitty pride! 🏴‍☠️ This is just a pet project that I'm doing for "morale purposes" but I'm hoping Pirate Kitty becomes our rogue mascot: chaotic neutral, HTML-loving, and always ready to pounce.
+
+Badge uses a clean, GitHub-compatible style. Optimized for Markdown and project READMEs.
 
 I'm also working on a way to count how many times Pirate Kitty has been seen using a Python Flask backend. If I really start working on that in earnest, I'll add the repo link here. If you're an aspiring backend Python dev like me, or you're just interested, be sure to Star and Watch this repo in the upper right as shown in the image below:
 
@@ -22,20 +24,11 @@ I'm also working on a way to count how many times Pirate Kitty has been seen usi
 [![Pirate Kitty Approved](https://img.shields.io/badge/Pirate_Kitty-Approved™-ff0000?style=flat&logo=github)](https://github.com/JCBrown602/pirate-kitty-badges)
 
 
-
 <img src="assets/pirate-kitty-4.png" width="64" height="64" />
 <img src="assets/pirate-kitty-4.svg" width="64" height="64" />
 <img src="assets/pirate-kitty-logo-2.png" width="64" height="64" />
 <br />
 <img src="assets/pirate-kitty-custom-badge.png"/><br />
-
-
-## 📦 About the Badge
-
-These badges were created for students at Coding Temple to celebrate their web projects. I'm hoping Pirate Kitty becomes our rogue mascot: chaotic neutral, HTML-loving, and always ready to pounce.
-
-Badge uses a clean, GitHub-compatible style. Optimized for Markdown and project READMEs.
-
 
 ## ✅ How to Use
 
